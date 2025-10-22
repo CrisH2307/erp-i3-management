@@ -3,10 +3,10 @@ POST http://localhost:4000/patients
 Content-Type: application/json
 
 {
-  "name": "Vladyslav Huziienko",
-  "email": "vladyslav.huziienko@senecapolytechnic.ca",
-  "address": "1890 Sheppard E Ave",
-  "dateOfBirth": "2005-08-01",
+  "name": "John Cena",
+  "email": "john.cena@senecapolytechnic.ca",
+  "address": "1200 Sheppard E Ave",
+  "dateOfBirth": "1982-08-01",
   "registeredDate": "2025-05-20"
 }
 
