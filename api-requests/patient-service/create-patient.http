@@ -3,11 +3,11 @@ POST http://localhost:4000/patients
 Content-Type: application/json
 
 {
-  "name": "John Cena",
-  "email": "john.cena@senecapolytechnic.ca",
-  "address": "1200 Sheppard E Ave",
-  "dateOfBirth": "1982-08-01",
-  "registeredDate": "2025-05-20"
+  "name": "Kamella Hoang",
+  "email": "kamella.nhoang@senecapolytechnic.ca",
+  "address": "191 McNicoll Ave",
+  "dateOfBirth": "2005-08-01",
+  "registeredDate": "2023-05-22"
 }
 
 ###
